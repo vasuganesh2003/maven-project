@@ -3,7 +3,7 @@ trigger:
 
 strategy:
   matrix:
-    linux:
+    windows:
       operatingSystem: 'windows-latest'
     mac:
       operatingSystem: 'macos-latest'
